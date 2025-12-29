@@ -6,6 +6,7 @@ This project is an automated testing suite for the Automation Exercise website, 
 
 The project uses Playwright with JavaScript and follows the Page Object Model (POM) design pattern for maintainability and scalability.
 
+
 Group Members
 
 Mustafa Emre Gökdal
